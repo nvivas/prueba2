@@ -21,7 +21,7 @@ public class Deporte {
 		System.out.println("El deporte apropiado es el Esqui");
 	
 	}	else 
-		System.out.println("El deporte apropiado son las Damas");
+		System.out.println("El deporte apropiado son las Damas o no");
 				
 		}
 

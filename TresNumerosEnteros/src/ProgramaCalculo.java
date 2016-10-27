@@ -17,7 +17,7 @@ public class ProgramaCalculo {
 	
 	if(num1 < 0){
 		producto=num1*num2*num3;
-		System.out.print("El producto de los tres números es: ");
+		System.out.print("El producto de los tres números es o no: ");
 		System.out.println(producto);
 		
 	}else{

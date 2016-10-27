@@ -13,7 +13,7 @@ public class Celsius {
 		
 		cel = (fah - (float)32)/1.8F;
 		
-				System.out.println("Los grados Fahrenheit son: " + fah + ", y convertidos en celsius son: " + cel);
+				System.out.println("Los grados Fahrenheit son: " + fah + ", y convertidos en celsius son:ooo " + cel);
 		
 	}
 
